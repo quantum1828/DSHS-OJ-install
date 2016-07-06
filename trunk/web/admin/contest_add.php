@@ -169,7 +169,6 @@ $fck_description->Create() ;
 ?>
 	Users:<textarea name="ulist" rows="20" cols="20"></textarea>
 	<br />
-	*可以将学生学号从Excel整列复制过来，然后要求他们用学号做UserID注册,就能进入Private的比赛作为作业和测验。
 	<p><input type=submit value=Submit name=submit><input type=reset value=Reset name=reset></p>
 	</form>
 <?php }
