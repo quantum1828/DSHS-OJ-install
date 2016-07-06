@@ -1,3 +1,7 @@
+***Tips***
+
+If the OJ installation is finished and the grading is not happening, goto trunk/core and do make.sh
+
 hustoj
 ======
 Introduction 简介
